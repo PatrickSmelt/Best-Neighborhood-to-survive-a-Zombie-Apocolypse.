@@ -3,8 +3,8 @@
 The Zombie Slayers
 Group #72
 Patrick Smelt, Pas209@pitt.edu
-Alex Caristan,
-Elizabeth
+Alex Caristan, adc154@pitt.edu
+Elizabeth Iye, bei7@pitt.edu
 
 For our final project, we are determining the best neighborhood in Pittsburgh to survive a zombie apocolypse. We are basing it off of three metrics.
 
@@ -27,7 +27,7 @@ Second, Alex Caristan will be determining which neighborhood have the highest in
 to purchase the most supplies, whether that be non-perishable goods, weaponry, armor and shelter to build either a base and be able to last the longest.
 
 
-# Elizabeth
+# Elizabeth Iye
 Lastly, Elizabeth will be figuring out which neighborhoods are the most populated. In a zombie apocolypse, there are a couple of things that really provide you with the basics to ensure
 survival. Wherever their is more people, the zombie infection rate will most likely spread the fastest. Also, the more people their are, the lack of trust their can be.
 Therfore, it is reasonable to conclude that the neighborhoods that are populated the least will be able to surive the longest.
